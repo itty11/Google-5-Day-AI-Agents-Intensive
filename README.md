@@ -41,8 +41,7 @@ A simple notebook and ipywidgets interface lets users query product details, pri
 _See the notebook and repo links above to try the full demo, explore the agent architecture, and extend the solution!_
 
 
-Author
+**Author**
 
 Ittyavira C Abraham
-
 AI Engineer
